@@ -17,7 +17,7 @@ struct ParentView: View {
             debugPrint("On tap:", isLoggedIn)
         }
         .onAppear() {
-            debugPrint("Initial Statee:", isLoggedIn)
+            debugPrint("Initial State:", isLoggedIn)
         }
     }
 }
