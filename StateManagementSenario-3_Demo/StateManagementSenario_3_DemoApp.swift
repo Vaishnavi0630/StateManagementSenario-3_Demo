@@ -11,7 +11,7 @@ import SwiftUI
 struct StateManagementSenario_3_DemoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ParentView()
         }
     }
 }
